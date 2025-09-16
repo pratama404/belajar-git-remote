@@ -1,3 +1,4 @@
 [submodule "belajar-sub-module"]
 	path = belajar-sub-module
 	url = git@github.com:pratama404/belajar-sub-module.git
+	branch = release
